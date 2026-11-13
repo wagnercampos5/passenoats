@@ -71,11 +71,16 @@ Gere o código completo, responsivo e pronto para uso.
 
 ## 4. Evidências da Aplicação e Exemplo de Uso (Screenshots)
 
-### 1. Tela Inicial e Entrada de Dados (Vaga vs. Currículo)
-![Tela Inicial PasseNoATS](COLE_AQUI_O_PRINT_DA_TELA_INICIAL)
+### 1. Tela Inicial, Compromisso Ético e Entrada de Dados
+<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/f3a09e3b-862b-4b5e-8481-988281aaef03" />
 
 ### 2. Dashboard de Análise (Match Score e Palavras-Chave)
-![Match Score e Badges](COLE_AQUI_O_PRINT_DO_MATCH_SCORE)
+<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/637c209a-c7e9-4044-b69b-6f4c78a9daf4" />
 
-### 3. Currículo Otimizado e Exportação em PDF
-![Currículo Otimizado](COLE_AQUI_O_PRINT_DO_CURRICULO_GERADO)
+### 3. Currículo Otimizado Gerado pela IA
+<img width="1366" height="768" alt="3" src="https://github.com/user-attachments/assets/0acde08e-3381-41d0-8cc9-4b7240fe0f4b" />
+
+<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/96fcb8c6-f141-4c25-8ccf-83f431adf448" />
+
+### 4. Exportação Limpa em PDF (@media print)
+<img width="1366" height="720" alt="5" src="https://github.com/user-attachments/assets/dd0b7255-3543-40ac-8e52-a6daf4e01e02" />
